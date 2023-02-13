@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,AFN
+http://103.226.232.170:9002/play/a007/index.m3u8
+#EXTINF:-1,ANIMAX
+http://103.226.232.170:9002/play/a00k/index.m3u8
+#EXTINF:-1,AXN
+http://103.226.232.170:9002/play/a00i/index.m3u8
+#EXTINF:-1,BEIN 1
+http://103.226.232.170:9002/play/a001/index.m3u8
+#EXTINF:-1,BEIN 3
+http://103.226.232.170:9002/play/a002/index.m3u8
+#EXTINF:-1,BLOOMBERG
+http://103.226.232.170:9002/play/a00v/index.m3u8
+#EXTINF:-1,CINEMAX
+http://103.226.232.170:9002/play/a00s/index.m3u8
+#EXTINF:-1,CNBC ASIA
+http://103.226.232.170:9002/play/a00w/index.m3u8
+#EXTINF:-1,CNN INDONESIA
+http://103.226.232.170:9002/play/a00g/index.m3u8
+#EXTINF:-1,DUNIA ANAK
+http://103.226.232.170:9002/play/a00m/index.m3u8
+#EXTINF:-1,FLIX
+http://103.226.232.170:9002/play/a00j/index.m3u8
+#EXTINF:-1,GALAXY
+http://103.226.232.170:9002/play/a00t/index.m3u8
+#EXTINF:-1,HBO
+http://103.226.232.170:9002/play/a00e/index.m3u8
+#EXTINF:-1,HISTORY
+http://103.226.232.170:9002/play/a00a/index.m3u8
+#EXTINF:-1,JOWO
+http://103.226.232.170:9002/play/a00f/index.m3u8
+#EXTINF:-1,NAT GEO
+http://103.226.232.170:9002/play/a008/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://103.226.232.170:9002/play/a00b/index.m3u8
+#EXTINF:-1,ONE HD
+http://103.226.232.170:9002/play/a006/index.m3u8
+#EXTINF:-1,SCM
+http://103.226.232.170:9002/play/a00u/index.m3u8
+#EXTINF:-1,SCTV SD
+http://103.226.232.170:9002/play/a00y/index.m3u8
+#EXTINF:-1,TECH STORM
+http://103.226.232.170:9002/play/a00d/index.m3u8
+#EXTINF:-1,U CHANNEL
+http://103.226.232.170:9002/play/a010/index.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://103.226.232.170:9002/play/a005/index.m3u8
+##EXTINF:-1,RTV
+http://103.226.232.199:8008/play/a02f/index.m3u8
+#EXTINF:-1,INDOSIAR
+http://103.226.232.199:8008/play/Indosiar/index.m3u8
+#EXTINF:-1,ALWAFA
+http://103.226.232.199:8008/play/a02p/index.m3u8
+#EXTINF:-1,ANIMAL PLANET BWI
+http://103.226.232.199:8008/play/a02q/index.m3u8
+#EXTINF:-1,Animal Planet
+http://103.226.232.199:8008/play/a02r/index.m3u8
+#EXTINF:-1,BBSTV
+http://103.226.232.199:8008/play/a01e/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://103.226.232.199:8008/play/a02s/index.m3u8
+#EXTINF:-1,MAKKAH
+http://103.226.232.199:8008/play/a02n/index.m3u8
+#EXTINF:-1,MENTARI
+http://103.226.232.199:8008/play/a019/index.m3u8
+#EXTINF:-1,MNC
+http://103.226.232.199:8008/play/a01a/index.m3u8
+#EXTINF:-1,OCHANEL
+http://103.226.232.199:8008/play/a01d/index.m3u8
+#EXTINF:-1,RCTI
+http://103.226.232.199:8008/play/a018/index.m3u8
+#EXTINF:-1,SCTV
+http://103.226.232.199:8008/play/a01v/index.m3u8
+#EXTINF:-1,TRANS 7
+http://103.226.232.199:8008/play/a01l/index.m3u8
+#EXTINF:-1,TRANSTV
+http://103.226.232.199:8008/play/a01b/index.m3u8
+#EXTINF:-1,WC1-JBR
+http://103.226.232.199:8008/play/a01n/index.m3u8
+#EXTINF:-1,WC2-JBR
+http://103.226.232.199:8008/play/a01x/index.m3u8
+#EXTINF:-1,indo
+http://103.226.232.199:8008/play/a01h/index.m3u8
+#EXTINF:-1,jember1tv
+http://103.226.232.199:8008/play/a016/index.m3u8
+#EXTINF:-1,jember2tv
+http://103.226.232.199:8008/play/a01g/index.m3u8
